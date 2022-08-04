@@ -1,0 +1,4 @@
+-laravel
+alinhar 
+-display flex e grid
+-posicionamento de elementos css

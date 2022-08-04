@@ -1,0 +1,23 @@
+Felipe Mafra
+entender sempre o pq
+
+sql mysql oracle
+
+virtual box?
+mysql
+notepad
+starUML
+br modelo
+
+escopo
+[]
+
+NIVEIS 
+ad/dba administração de dados/ad de base de dados
+bi business intelligence
+ds data science
+
+
+CHAR E VARCHAR 
+char n varia de tamanho, varchar varia
+char mais performático

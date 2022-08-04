@@ -1,0 +1,21 @@
+**introdução a SQL**
+linguagem declarativa, não procedural
+
+sql
+linguagem de consulta
+
+ddl(definição)= create
+		    alter
+		    drop
+		    truncate
+
+dml(manipulação)=insert
+		     update
+		     delete
+del(controle)=	grant
+			revoke
+dtl(transação)=	commit
+			rollback
+			save point
+
+-----------------------------------------------

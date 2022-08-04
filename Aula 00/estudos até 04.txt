@@ -1,0 +1,94 @@
+dado =fato registrado
+informação = dado com significado e contexto 
+bem definido
+
+onde encontramos banco de dados
+um banco de dados é uma coleção de dados
+relacionados
+3 propriedades implicitas
+1-representa algum aspecto do mundo real
+(mini mundo ou universo do discurso)
+2-coleção logicamente coerentes
+3-atende necessidade especifica, possui grupo
+definido de usuários
+
+sgbd= gerenciador de banco de dados
+(permite criar e manter banco de dados)
+sistema bd= união de banco de dados com o softwar
+sgbd
+metdados= especificar os tipos, estruturas e 
+restrições dos dados
+catálogo ou dicionário de dados
+
+sgbd 
+*definir=definição descritiva
+*construir
+*manipular
+*compartilhar
+*proteger
+
+redundância= repetição de dados
+objetivo redundância controlada
+
+caracterisiticas da abordagem de BD
+
+-natureza auto descritiva
+-isolamento entre programas e dados
+	*sgbdoo
+-abstração de dados
+-suporte a múltiplas funções
+*visão fotográfia de uma tabela em uma parte do 
+tempo, visão é contruida como objeto
+ex nome e data de nascimento da tabela funcionario
+-compartilhamento de dados
+	*controle de concorrecnia
+
+Transações
+é um programa em execução ou processo que inclui 
+um ou mais acessos ao banco de dados, que efetuam 
+leitura ou atualizaçãi de seus registros
+
+*atomicidade=tudo ou nada commit, rollback
+*consistencia=
+*isolamento=
+*durabilidade= n se perdem
+
+atores em cena
+
+ad=data administrator 
+dba=data base administrator
+
+Objetivo de Desenvolvimento de BD
+
+-Desenvolvver um vocabulário comum
+-Definir o significado dos dados
+-Assegurar a qualidade dos dados
+
+características
+
+-completude
+-ausencia de ambiguidade
+-corretude
+-atualidade
+-confiabilidade
+- consistência
+
+benefício
+-dado pode ser compartilhado
+-redundância reduzida
+-inconsistencia pode ser evitada
+-pode se utilizar suporte a transações
+-a inegridade pode ser mantida
+-a segurança pode ser aperfeiçoada
+
+
+
+
+
+
+
+
+
+
+
+
